@@ -3,8 +3,8 @@ import axios from 'axios';
 import HomePage from './paginas/HomePage';
 import Header from './paginas/Components/Header';
 
-const CLIENT_ID = 'da945db3a7014c05b1caedf25c3a6295';
-const CLIENT_SECRET = '9665ab7453074285a8a1f3b58b8e5f9c';
+const CLIENT_ID = '6a35d344ccb74561a1595f34ad8a24d6';
+const CLIENT_SECRET = 'fe2e9efd6c6f4919a51994d73062cb34';
 const REDIRECT_URI = 'http://localhost:3000/callback';
 const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize';
 const TOKEN_ENDPOINT = 'https://accounts.spotify.com/api/token';
