@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu projeto de clone do Spotify! Este aplicativo web, desenvolvido com **React.js**, oferece uma experiência semelhante ao famoso serviço de streaming de música. Com ele, você pode explorar suas músicas e artistas favoritos de maneira intuitiva e envolvente.
 
+<!-- PROJECT SITE -->
+<h2 id="site">:earth_americas: Link do site </h2>
+<p>🔗 <a href="https://exciting-arm.surge.sh" target="_blank"> Clone-Spotify </a>  </p>
+<!-- <a href="https://exciting-arm.surge.sh" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 ## 📚 Funcionalidades
 
 - **Listagem de Artistas Preferidos**: Descubra e ouça os seus artistas favoritos em um só lugar.
