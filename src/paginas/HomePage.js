@@ -153,8 +153,8 @@ const HomePage = () => {
           <SearchedTracksSection>
             <TrackList>
               {searchedTracks.map((track) => (
-                <TrackItem key={track.id}>
-                  <TrackDetails onClick={() => playTrack(track)}>
+                <TrackItem key={track.id} onClick={() => playTrack(track)}>
+                  <TrackDetails>
                     <TrackImage src={track.album.images[0].url} />
                     <TrackName>{track.name}</TrackName>
                   </TrackDetails>
@@ -317,6 +317,7 @@ const TrackItem = styled.li`
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 0;
+  cursor: pointer;
 `;
 
 const TrackDetails = styled.div`
