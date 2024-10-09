@@ -17,6 +17,10 @@ Bem-vindo ao meu projeto de clone do Spotify! Este aplicativo web, desenvolvido 
 - **CSS**: Para estilização e design responsivo da aplicação.
 
 ## Instruções
-1 - Clone o repositório
-2 - use o npm install para instalar as dependências
-3 - O projeto irá rodar em http://localhost:3000
+1. Clone o repositório
+
+2. Use o `npm install` para instalar as dependências
+
+3. O projeto irá rodar em http://localhost:3000
+
+![image](https://github.com/user-attachments/assets/602c421d-554a-41ad-85d3-332b85103164)
